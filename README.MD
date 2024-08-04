@@ -43,8 +43,6 @@ e.g.:
 
 ## Known Limitations
 
-- Ensure the same password is used for both encryption and decryption.
-- Incorrect password during decryption will result in an error message and the output file will be deleted.
 - The password must be 128 characters or less.
 
 ## Credits
