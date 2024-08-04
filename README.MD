@@ -43,7 +43,8 @@ e.g.:
 
 ## Known Limitations
 
-- The password must be 128 characters or less.
+- The password must be 512 characters or less.
+- The special character `&` is not accepted in the password.
 
 ## Credits
 Credits to J. Tornblom for the SDK and required payloads.
