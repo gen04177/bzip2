@@ -11,12 +11,19 @@ This payload is a tool to compress and encrypt files and decompress and decrypt 
 ## How to Use
 
 1 - Send the elfldr.elf payload to port 9020.
+
 2 - Send the shsrv.elf payload to port 9021.
+
 3 - Send the ftpsrv.elf payload to port 9021.
+
 4 - Copy the bz2.elf payload to the /data directory on your PS5.
+
 5 - Execute telnet [PS5-IP] 2323.
+
 6 - `cd /data`
+
 7 - Run the command `hbldr bz2.elf --help` FMI.
+
 
 ## Compress and Encrypt a File:
 
