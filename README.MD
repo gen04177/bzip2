@@ -1,6 +1,6 @@
 # bzip2
 
-This payload is a tool to compress and encrypt files and decompress and decrypt them. The tool is developed in C and is designed to run on a PS5 with Jailbreak (3.xx-4.xx).
+This payload is a tool to compress and encrypt files and decompress and decrypt them. The tool is developed in C and is designed to run on a jailbroken PS5 (1.xx-4.xx).
 
 ## Prerequisites
 
@@ -47,4 +47,4 @@ e.g.:
 - The special character `&` is not accepted in the password.
 
 ## Credits
-Credits to J. Tornblom for the SDK and required payloads.
+- J. Tornblom - SDK and required payloads.
